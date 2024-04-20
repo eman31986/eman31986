@@ -2,13 +2,13 @@
 ### Computer Engineering student 👩‍💻
 
 
-## Skills: 
+<!--## Skills: 
 * c 
 * c++ 
 * c# 
 * Html 
 * css 
-
+-->
 <!-- - 🔭 I’m currently working on this page. 
 Here are some ideas to get you started:
 
