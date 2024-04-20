@@ -1,6 +1,8 @@
-### Hi there 👋, my name is Eman
-#### Computer Engineering student 
-Skills: 
+# Hi there 👋, my name is Eman
+### Computer Engineering student 👩‍💻
+
+
+## Skills: 
 * c 
 * c++ 
 * c# 
