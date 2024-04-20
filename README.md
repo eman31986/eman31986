@@ -1,11 +1,5 @@
-### Hi there 👋
-
-<!--
 ### Hi there 👋, my name is Eman
 #### Computer Engineering student 
-![Computer Engineering student ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-
 Skills: 
 * c 
 * c++ 
@@ -13,7 +7,7 @@ Skills:
 * Html 
 * css 
 
-- 🔭 I’m currently working on this page. 
+<!-- - 🔭 I’m currently working on this page. 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
